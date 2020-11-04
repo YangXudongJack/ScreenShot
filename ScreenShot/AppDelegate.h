@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  ScreenShot
 //
-//  Created by qianfeng on 15/9/7.
+//  Created by yxd on 15/9/7.
 //  Copyright (c) 2015年 my. All rights reserved.
 //
 
